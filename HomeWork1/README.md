@@ -1,6 +1,6 @@
 # Kangwon national university
 
-2nd year 1nd semester
+3nd year 1nd semester
 
 ## Programming Languages
 #### first Homework
