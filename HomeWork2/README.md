@@ -10,7 +10,7 @@ Grade on : 2022-04-16 21:07
 
 Graded by	: KimSeongU
 
-### Ocaml 연산
+### Ocaml 연산(1)
 
 ##### Question 1. [10점] 1에서 n까지의 정수의 합을 구하는 함수 sum을 작성하라.
 
