@@ -20,6 +20,8 @@ Question 1. [10점] 1에서 n까지의 정수의 합을 구하는 함수 sum을 
 
 
 
+
+
 Question 2. [10점] 반지름이 r인 원의 넓이를 구하는 함수 circle을 작성하라.
 
 (타입) float -> float
