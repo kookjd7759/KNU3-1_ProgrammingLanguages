@@ -12,13 +12,11 @@ Graded by	: KimSeongU
 
 ### Ocaml 연산
 
-Question 1. [10점] 1에서 n까지의 정수의 합을 구하는 함수 sum을 작성하라.
+##### Question 1. [10점] 1에서 n까지의 정수의 합을 구하는 함수 sum을 작성하라.
 
 (타입) int -> int
 
 (설명) sum n은 n ≤ 0인 경우 0을, n > 0인 경우 n(n+1) / 2 을 반환한다.
-
-
 
 
 
