@@ -14,7 +14,7 @@ Graded by	: KimSeongU
 
 - 각 변수에 알맞은 정보를 저장해야 합니다. 각 변수에 저장할 내용은 다음과 같습니다.
   * student_number : 학번을 정수형으로 작성 (예: 201900001)
-  * email : 이메일 주소를 문자열 형식으로 작성 (예: "hsim@kangwon.ac.kr")
+  * email : 이메일 주소를 문자열 형식으로 작성 (예: "kangwon@kangwon.ac.kr")
   * phone_number : 휴대폰 번호를 문자열 형식으로 작성 (예: "010-0000-0000")
   * favorite_day : day 데이터 타입에서 좋아하는 요일을 선택 (예: FRI)
   * expected_grade : grade 데이터 타입에서 본 과목에서 기대하는 학점을 선택 (예: Aplus)
