@@ -10,7 +10,7 @@ Grade on : 2022-04-30 16:53
 
 Graded by	: KimSeongU
 
-### Ocaml 연산 및 데이터 구조
+### Ocaml 연산(2) 및 데이터 구조
 
 ##### Question 1. Recursive functions on integers
 
